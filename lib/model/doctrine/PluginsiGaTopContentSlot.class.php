@@ -12,5 +12,5 @@
  */
 abstract class PluginsiGaTopContentSlot extends BasesiGaTopContentSlot
 {
-
+  protected $editDefault = true;
 }
