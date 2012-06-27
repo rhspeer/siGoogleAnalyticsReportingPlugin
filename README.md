@@ -14,12 +14,14 @@ Installation
 1.  download to plugins directory or preferably use svn externals (I think this is possible with gitHub)
 2.  add your google analytics credential to app.yml, they should look something like this:
 
+Code:
     a:
       gareports:
         username: username@gmail.com
         password: yourpassword
         profile: profile_id_starts_with_ga:
         key: looong_api_key 
+endCode
 
 3. rebuild your classes from the command line:
     ./symfony doctrine:build --classes
