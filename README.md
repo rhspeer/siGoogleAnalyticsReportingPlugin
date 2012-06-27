@@ -1,5 +1,8 @@
 siGoogleAnalyticsReportingPlugin
 ================================
+Screencast on how it works: http://www.youtube.com/watch?v=KOVSGft26yg
+Done with screenr.com, a wonderful online screencast tool
+
 
 Used to display web stats from an associated Google Analytics account, in the [Apostrophe CMS](http://apostrophenow.org)
 
