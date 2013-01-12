@@ -25,7 +25,7 @@ Installation
             key: looong_api_key 
     </code></pre>
 3. rebuild your classes from the command line:
-    ./symfony doctrine:build --classes
+    ./symfony doctrine:build --all-classes
 4. add plugin to config/ProjectConfiguration.class.php
 5. add module(s) to settings.yml to enable them
 6. add slot to app.yml under "slot_types:"
